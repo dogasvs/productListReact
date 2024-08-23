@@ -72,7 +72,7 @@ p, h1, h2, h3, h4, h5, h6 {
   margin-bottom: 32px;
 }
 
-.ıtemAddBtn {
+.itemAddBtn {
   display: flex;
   align-items: center;
   gap: 8px;
@@ -85,7 +85,7 @@ p, h1, h2, h3, h4, h5, h6 {
   top: -26px;
 }
 
-.ıtemAddBtn:hover {
+.itemAddBtn:hover {
  border-color: var(--color-red, rgba(199, 59, 15, 1));
  color: var(--color-red, rgba(199, 59, 15, 1));
 }
